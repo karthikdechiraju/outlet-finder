@@ -1,0 +1,31 @@
+.App {
+  /* text-align: center; */
+  padding-left: 24px;
+}
+
+.main_title{
+  margin:100px 0;
+  font-size: 50px;
+}
+
+.search{
+  width: 400px;
+}
+
+.suggest{
+  width: 400px;
+  padding: 20px 0px;
+}
+
+.MuiInputBase-input{
+  width: 400px !important;
+}
+
+.outlet{
+  margin-top: 50px;
+}
+
+.outlet_name{
+  font-size: 20px;
+  font-weight: 500;
+}
